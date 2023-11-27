@@ -1,0 +1,10 @@
+{
+  image: 'https://ik.imagekit.io/k2rapjioq/https://ipfs.io/ipfs/bafybeibr2rlj2pl4z3d7dd6r3idq5h4im3qv2jh5jmyz77ca3pqvrlxmey?tr=w-3840',
+  description: 'Proof of Attendance to Homeshelter event',
+  attributes: {
+    date: "02-01-2024",
+    hours: "6",
+    type: "social",
+    location: "Berlin Wedding"
+  }
+}
